@@ -90,7 +90,7 @@ body {
 .modal-text .description {
     font-weight: bold;
     font-family: 'Inter', sans-serif;
-    font-size: 0.95 em;
+    font-size: 1em;
 }
 
 .modal-text .description > a {
@@ -100,13 +100,13 @@ body {
 
 .modal-text .author {
     font-family: 'Montserrat', sans-serif;
-    font-size: 1.15em;
+    font-size: 0.95em;
 }
 
 .modal-text .date {
     color: gray;
     font-family: 'Inter', sans-serif;
-    font-size: 0.85em;
+    font-size: 0.9em;
 }
 
 .modal-text .date > a {
